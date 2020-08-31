@@ -6,3 +6,5 @@ To install this theme just drop each of the four folders into .themes (your user
 UI font is SGI: https://www.dafontfree.net/freefonts-sgi-f140002.htm
 
 Terminal font is Monoid: https://larsenwork.com/monoid/
+
+![image](https://raw.githubusercontent.com/decfan21/DECwindowsRedBlue/master/screenshot.png)
