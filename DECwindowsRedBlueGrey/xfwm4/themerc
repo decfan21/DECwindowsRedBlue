@@ -1,0 +1,13 @@
+# An Xfwm4 theme inspired by early DECwindows
+# and some of the colors of the default FVWM
+# theme on OpenBSD. 
+
+active_text_color=#FFFFFF
+inactive_text_color=#FFFFFF
+#button_offset=0
+#button_spacing=0
+#button_layout=O | MH
+full_width_title=true
+show_app_icon=false
+title_horizontal_offset=20
+title_full_width=true
